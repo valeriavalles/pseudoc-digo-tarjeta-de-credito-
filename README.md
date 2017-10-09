@@ -8,7 +8,9 @@ En las siguientes lineas el pseudocodigo nos ayudara a visualizar los pasos a re
 nuestro programa de Tarjeta de credito valida por medio del algoritmo de luhn.
 
 Primer paso
+
 >Inicio
+
 declarar una variable para poder ingresar los datos del numero de tarjeta.
 
 >var ==> tarjeta 
